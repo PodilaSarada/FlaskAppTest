@@ -1,4 +1,4 @@
-# FlaskAppUTest V1.2
+# FlaskAppUTest
 
 - Unittesting project for Python Rest API Flask based
 
